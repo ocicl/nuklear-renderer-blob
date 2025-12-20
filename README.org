@@ -1,0 +1,9 @@
+* nuklear-renderer-blob
+
+Precompiled Nuklear renderer binaries.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/borodust/nuklear-renderer-blob.git |
+| commit  | 4220f73                                                  |
+| systems | nuklear-renderer-blob                                    |
+|---------+----------------------------------------------------------|
